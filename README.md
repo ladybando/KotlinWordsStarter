@@ -2,8 +2,8 @@
 Searches the web for definition of basic words
 
 # General Information
-Basic dictionary type app that opens the browser with the definition of the word displayed
-Completion of Google CodeLab: https://developer.android.com/codelabs/basic-android-kotlin-training-activities-intents
+ Basic dictionary type app that opens the browser with the definition of the word displayed.
+ This completes a Google CodeLab: https://developer.android.com/codelabs/basic-android-kotlin-training-activities-intents
 
 # Technology
 - Android Studio Arctic Fox
